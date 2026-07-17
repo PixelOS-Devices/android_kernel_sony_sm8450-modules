@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b189a8d_565b96cc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-07-17T07:30:11Z",
+      "side": 1,
+      "message": "Maybe the Sony stuff causing conflict isn\u0027t needed; will investigate later.",
+      "revId": "cbaf3c74b5437a887aa0c9863e00b8bd81b7d1d3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
